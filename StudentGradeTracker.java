@@ -21,8 +21,8 @@ public class StudentGradeTracker {
             double lowest = calcLowest(grades);
 
             System.out.println("\nGrades View:");
-            System.out.println("Average grade: "+ average);
-            System.out.println("highest Grade: "+ highest);
+            System.out.println("Average Grade: "+ average);
+            System.out.println("Highest Grade: "+ highest);
             System.out.println("Lowest Grade: "+ lowest);
         }
     }
